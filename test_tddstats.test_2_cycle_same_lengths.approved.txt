@@ -1,0 +1,5 @@
+--- SESSION SUMMARY ---
+Total time:        6.6 s
+Adding tests:      2.2 s (33%)
+Making them pass:  2.2 s (33%)
+Refactoring:       2.2 s (33%)
